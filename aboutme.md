@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Uncovering Hidden Flaws in Code
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is **Mahdi Davoudabadi** and i go online by the handle **BitInfiltrartor**.
+I hope you find this blog interesting and learn new stuff.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm generally interested in *Vulnerablility Research*, and I mainly focues on abstract languages like [Nim](https://youtube.com/playlist?list=PLY98Os54-V_VuKThHWii5zh2fkPKrR5st&si=atlvCe5nDn-6MUZv), Rust and etc. 
 
-What else do you need?
+- Low-Level Development
+- Binary Analysis and Synthesis
+- Redteaming Tools Development
+- Vulnerability Research and Exploit Development
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+You can contact me via social medias linked in the footer of blog.
