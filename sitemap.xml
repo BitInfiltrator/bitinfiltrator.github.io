@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bitinfiltrator.github.io/posts/overflowbuginc/</loc>
+    <lastmod>2025-03-09T13:11:18+00:00</lastmod>
+  </url><url>
     <loc>https://bitinfiltrator.github.io/posts/whatishappeningbeforemainfunc/</loc>
     <lastmod>2025-01-25T13:11:18+00:00</lastmod>
   </url><url>
     <loc>https://bitinfiltrator.github.io/tags/binary/</loc>
-    <lastmod>2025-01-25T13:11:18+00:00</lastmod>
+    <lastmod>2025-03-09T13:11:18+00:00</lastmod>
   </url><url>
     <loc>https://bitinfiltrator.github.io/</loc>
-    <lastmod>2025-01-25T13:11:18+00:00</lastmod>
+    <lastmod>2025-03-09T13:11:18+00:00</lastmod>
+  </url><url>
+    <loc>https://bitinfiltrator.github.io/posts/</loc>
+    <lastmod>2025-03-09T13:11:18+00:00</lastmod>
+  </url><url>
+    <loc>https://bitinfiltrator.github.io/tags/reverse-engineering/</loc>
+    <lastmod>2025-03-09T13:11:18+00:00</lastmod>
+  </url><url>
+    <loc>https://bitinfiltrator.github.io/tags/</loc>
+    <lastmod>2025-03-09T13:11:18+00:00</lastmod>
+  </url><url>
+    <loc>https://bitinfiltrator.github.io/tags/vulnerability-analysis/</loc>
+    <lastmod>2025-03-09T13:11:18+00:00</lastmod>
   </url><url>
     <loc>https://bitinfiltrator.github.io/tags/elf-file-format/</loc>
     <lastmod>2025-01-25T13:11:18+00:00</lastmod>
   </url><url>
     <loc>https://bitinfiltrator.github.io/tags/gcc/</loc>
-    <lastmod>2025-01-25T13:11:18+00:00</lastmod>
-  </url><url>
-    <loc>https://bitinfiltrator.github.io/posts/</loc>
-    <lastmod>2025-01-25T13:11:18+00:00</lastmod>
-  </url><url>
-    <loc>https://bitinfiltrator.github.io/tags/reverse-engineering/</loc>
-    <lastmod>2025-01-25T13:11:18+00:00</lastmod>
-  </url><url>
-    <loc>https://bitinfiltrator.github.io/tags/</loc>
     <lastmod>2025-01-25T13:11:18+00:00</lastmod>
   </url><url>
     <loc>https://bitinfiltrator.github.io/about/</loc>

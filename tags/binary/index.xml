@@ -11,14 +11,23 @@
     </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jan 2025 13:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 13:11:18 +0000</lastBuildDate>
     <atom:link href="https://bitinfiltrator.github.io/tags/binary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detailed Overview of Stack Buffer Overflows</title>
+      <link>https://bitinfiltrator.github.io/posts/overflowbuginc/</link>
+      <pubDate>Sun, 09 Mar 2025 13:11:18 +0000</pubDate>
+      <guid>https://bitinfiltrator.github.io/posts/overflowbuginc/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Buffer overflows are vulnerabilities that result in memory corruption and can be categorized by type, commonly referred to as &amp;ldquo;generation&amp;rdquo;. The two most relevant types today are stack buffer overflows and heap buffer overflows. A buffer overflow occurs when more data is copied into a buffer or array than it can hold.&lt;/p&gt;
+&lt;p&gt;As the name indicates, stack buffer overflows take place in the stack area of a process&amp;rsquo;s memory. The stack is a designated memory region that stores both data and metadata associated with process calls. When more data is placed into a stack buffer than it can accommodate, it may overwrite adjacent stack memory. If a user can control the data and the amount being input, it becomes possible to manipulate the stack&amp;rsquo;s data or metadata, which can ultimately allow for control over the process&amp;rsquo;s execution flow.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What happens before the main function, from the _start point to the main function?</title>
       <link>https://bitinfiltrator.github.io/posts/whatishappeningbeforemainfunc/</link>
       <pubDate>Sat, 25 Jan 2025 13:11:18 +0000</pubDate>
       <guid>https://bitinfiltrator.github.io/posts/whatishappeningbeforemainfunc/</guid>
-      <description>&lt;h2 id=&#34;introducion&#34;&gt;Introducion&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;For most programmers, the entry point of a C or C++ program is the main function. However, they may be unaware of the complex steps that occur before main is executed. Depending on the program and the compiler used, various functions may run before main. These functions are automatically included in the final executable binary by the compiler and linker, but they remain hidden from the programmer.&lt;/p&gt;
 &lt;p&gt;This post discusses the execution process and events from _start to the main function, with future posts covering the next steps.&lt;/p&gt;</description>
     </item>

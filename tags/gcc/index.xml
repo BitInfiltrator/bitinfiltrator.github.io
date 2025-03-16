@@ -18,7 +18,7 @@
       <link>https://bitinfiltrator.github.io/posts/whatishappeningbeforemainfunc/</link>
       <pubDate>Sat, 25 Jan 2025 13:11:18 +0000</pubDate>
       <guid>https://bitinfiltrator.github.io/posts/whatishappeningbeforemainfunc/</guid>
-      <description>&lt;h2 id=&#34;introducion&#34;&gt;Introducion&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;For most programmers, the entry point of a C or C++ program is the main function. However, they may be unaware of the complex steps that occur before main is executed. Depending on the program and the compiler used, various functions may run before main. These functions are automatically included in the final executable binary by the compiler and linker, but they remain hidden from the programmer.&lt;/p&gt;
 &lt;p&gt;This post discusses the execution process and events from _start to the main function, with future posts covering the next steps.&lt;/p&gt;</description>
     </item>
